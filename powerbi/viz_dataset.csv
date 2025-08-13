@@ -1,0 +1,51 @@
+fecha,categoria,producto,unidades_vendidas,precio_unitario,ingresos,mes
+2024-10-08,Hogar y Cocina,Cafetera,69,403.37,27832.53,2024-10
+2024-02-05,Libros,Libro de Cocina,28,130.23,3646.4399999999996,2024-02
+2024-11-12,Belleza,Sérum Facial,37,222.86,8245.82,2024-11
+2024-12-30,Belleza,Secador de Pelo,5,75.92,379.6,2024-12
+2024-09-30,Ropa,Vestido de Verano,100,320.74,32074.0,2024-09
+2024-10-22,Ropa,Chaqueta de Mezclilla,49,155.61,7624.89,2024-10
+2025-01-31,Electrónica,Auriculares Inalámbricos,71,426.08,30251.68,2025-01
+2024-07-05,Electrónica,Auriculares Inalámbricos,44,61.74,2716.56,2024-07
+2024-12-19,Libros,Libro de Cocina,27,193.56,5226.12,2024-12
+2025-05-20,Ropa,Camiseta,86,487.81,41951.66,2025-05
+2025-06-28,Hogar y Cocina,Freidora de Aire,73,175.33,12799.09,2025-06
+2024-06-26,Libros,Guía de Autoayuda,2,38.11,76.22,2024-06
+2025-04-23,Electrónica,Portátil Air,26,420.73,10938.98,2025-04
+2024-08-31,Belleza,Sérum Facial,63,264.38,16655.94,2024-08
+2024-11-14,Ropa,Vestido de Verano,55,165.73,9115.15,2024-11
+2024-05-26,Hogar y Cocina,Arrocera,93,440.16,40934.880000000005,2024-05
+2025-02-23,Hogar y Cocina,Aspiradora,65,399.56,25971.4,2025-02
+2024-09-25,Ropa,Vestido de Verano,41,384.85,15778.85,2024-09
+2024-08-04,Ropa,Camiseta,49,55.43,2716.07,2024-08
+2024-01-02,Electrónica,Reloj Inteligente Z,96,436.42,41896.32,2024-01
+2025-03-07,Ropa,Tenis,65,51.18,3326.7,2025-03
+2024-05-27,Libros,Novela de Fantasía,38,17.2,653.6,2024-05
+2024-10-20,Ropa,Camiseta,14,276.79,3875.0600000000004,2024-10
+2024-05-30,Juguetes,Juego de Mesa,81,113.4,9185.4,2024-05
+2024-03-22,Hogar y Cocina,Freidora de Aire,50,236.48,11824.0,2024-03
+2024-09-23,Hogar y Cocina,Licuadora,74,321.6,23798.4,2024-09
+2024-03-20,Electrónica,Reloj Inteligente Z,74,242.97,17979.78,2024-03
+2025-06-09,Juguetes,Casa de Muñecas,30,272.83,8184.9,2025-06
+2024-08-20,Electrónica,Reloj Inteligente Z,34,195.64,6651.759999999999,2024-08
+2025-02-26,Electrónica,Reloj Inteligente Z,7,283.76,1986.32,2025-02
+2024-10-28,Electrónica,Reloj Inteligente Z,51,370.1,18875.100000000002,2024-10
+2024-07-01,Electrónica,Auriculares Inalámbricos,38,443.23,16842.74,2024-07
+2024-06-24,Electrónica,Teléfono X,38,432.44,16432.72,2024-06
+2025-02-27,Electrónica,Tableta Pro,81,195.37,15824.970000000001,2025-02
+2025-02-11,Hogar y Cocina,Licuadora,26,99.26,2580.76,2025-02
+2024-01-20,Electrónica,Tableta Pro,91,84.72,7709.5199999999995,2024-01
+2025-07-29,Electrónica,Reloj Inteligente Z,52,269.56,14017.12,2025-07
+2024-09-20,Ropa,Vestido de Verano,53,431.82,22886.46,2024-09
+2024-06-27,Hogar y Cocina,Cafetera,60,101.38,6082.799999999999,2024-06
+2025-03-17,Belleza,Champú,62,190.83,11831.460000000001,2025-03
+2025-03-03,Belleza,Champú,32,344.06,11009.92,2025-03
+2025-07-02,Juguetes,Rompecabezas,31,246.71,7648.01,2025-07
+2024-12-17,Juguetes,Carro RC,41,80.29,3291.8900000000003,2024-12
+2024-02-24,Belleza,Protector Solar,49,298.07,14605.43,2024-02
+2024-09-23,Libros,Novela de Fantasía,14,113.59,1590.26,2024-09
+2024-09-23,Electrónica,Tableta Pro,81,143.51,11624.31,2024-09
+2024-06-18,Electrónica,Teléfono X,89,333.03,29639.67,2024-06
+2024-06-16,Electrónica,Tableta Pro,49,423.44,20748.56,2024-06
+2025-04-06,Belleza,Labial,51,227.29,11591.789999999999,2025-04
+2024-02-11,Ropa,Vestido de Verano,89,434.31,38653.590000000004,2024-02
