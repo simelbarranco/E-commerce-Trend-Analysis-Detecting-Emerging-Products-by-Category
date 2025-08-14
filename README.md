@@ -19,20 +19,13 @@ El resultado final incluye dos archivos exportados para análisis y visualizaci�
 
 ---
 
-## 📊 Ideas de Visualización en Power BI
-
-### Tendencia de Ventas por Categoría
-Gráfico de líneas, eje X = Mes, eje Y = Ingresos, leyenda = Categoría.
-
-![Ex1](./assets/placeholder.jpg)
+## 📊 Visualización en Power BI
 
 ### Top Productos Emergentes
-Barra horizontal, eje X = % Crecimiento, eje Y = Producto, color por categoría.
 
-![Ex2](./assets/placeholder.jpg)
+![Ex2](./assets/preview1.png)
 
-### Participación de Ingresos por Categoría
-Gráfico de dona, valores = Ingresos, leyenda = Categoría.
+### Tendencia de Ventas por Categoría y Participación de Ingresos por Categoría
 
-![Ex3](./assets/placeholder.jpg)
+![Ex1](./assets/preview2.png)
 
