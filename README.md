@@ -1,31 +1,30 @@
-# 📊 Análisis de Productos Emergentes en E-commerce
+# 📊 Proyecto de Análisis de Tendencias y Comportamiento Digital
 
-## 📌 Descripción del Proyecto
-Este proyecto identifica **productos emergentes por categoría** en un entorno de e-commerce, basándose en tendencias de ventas recientes.  
-El flujo de trabajo está dividido en tres pasos principales:
-
-1. **Carga de datos** desde un archivo CSV ya existente.
-2. **Limpieza y preparación** de los datos.
-3. **Detección de productos emergentes** según su crecimiento en ventas.
-
-El resultado final incluye dos archivos exportados para análisis y visualización en **Power BI**.
+Este proyecto reúne **tres subproyectos** enfocados en identificar y analizar tendencias emergentes en distintos entornos digitales.  
 
 ---
 
-## 🛠 Tecnologías Utilizadas
-- **Python** (Pandas, NumPy)
-- **Power BI** (Visualización de datos)
-- **CSV** como formato de intercambio
+## 1️⃣ Detecta productos emergentes por categoría en e-commerce  
+**Descripción:** Analiza datos de consumo en plataformas de comercio electrónico para identificar productos y categorías con rápido crecimiento en ventas.  
+**Usos:**  
+- Optimizar inventarios.  
+- Detectar oportunidades de nuevos productos.  
+- Mejorar estrategias de marketing.  
 
 ---
 
-## 📊 Visualización en Power BI
+## 2️⃣ Identifica temas en auge por región y momento usando hashtags de Twitter  
+**Descripción:** Analiza hashtags en Twitter para encontrar temas en tendencia, segmentados por región y periodo de tiempo.  
+**Usos:**  
+- Planificación de campañas en redes sociales.  
+- Análisis de opinión pública.  
+- Detección temprana de tendencias virales.  
 
-### Top Productos Emergentes
+---
 
-![Ex2](./assets/preview1.png)
-
-### Tendencia de Ventas por Categoría y Participación de Ingresos por Categoría
-
-![Ex1](./assets/preview2.png)
-
+## 3️⃣ Analiza cambios de intereses por eventos globales usando Google Trends  
+**Descripción:** Estudia cómo varían los intereses de búsqueda en Google según eventos globales relevantes.  
+**Usos:**  
+- Evaluar el impacto de eventos en el comportamiento digital.  
+- Ajustar estrategias publicitarias y de contenido.  
+- Anticipar cambios en la demanda de productos o servicios.  

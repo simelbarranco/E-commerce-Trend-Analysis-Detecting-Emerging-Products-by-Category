@@ -1,0 +1,151 @@
+id,fecha,region,hashtag,volumen_estimado
+1,2024-01-01,North America,#NewYear2024,8500000
+2,2024-01-01,Europe,#NewYear2024,6200000
+3,2024-01-01,Asia Pacific,#NewYear2024,9800000
+4,2024-01-01,Latin America,#AñoNuevo2024,4100000
+5,2024-01-02,Global,#NewYear2024,12000000
+6,2024-01-10,Asia Pacific,#ChineseNewYear,2100000
+7,2024-01-15,North America,#MLKDay,3200000
+8,2024-01-20,Asia Pacific,#ChineseNewYear,15800000
+9,2024-01-22,Europe,#ChineseNewYear,2800000
+10,2024-01-25,Latin America,#AñoNuevoChino,1900000
+11,2024-02-08,Asia Pacific,#ChineseNewYear,18500000
+12,2024-02-09,North America,#ChineseNewYear,4200000
+13,2024-02-11,North America,#SuperBowl2024,25000000
+14,2024-02-11,Latin America,#SuperBowl2024,3800000
+15,2024-02-11,Europe,#SuperBowl2024,2100000
+16,2024-02-12,Global,#SuperBowl2024,18900000
+17,2024-02-14,North America,#ValentinesDay,12500000
+18,2024-02-14,Europe,#ValentinesDay,8200000
+19,2024-02-14,Latin America,#SanValentin,5600000
+20,2024-02-14,Asia Pacific,#ValentinesDay,6800000
+21,2024-02-15,Global,#ValentinesDay,15200000
+22,2024-03-08,Europe,#WomensDay,9200000
+23,2024-03-08,North America,#WomensDay,7800000
+24,2024-03-08,Latin America,#DíaDeLaMujer,6100000
+25,2024-03-08,Asia Pacific,#WomensDay,5400000
+26,2024-03-08,Africa,#WomensDay,2800000
+27,2024-03-09,Global,#WomensDay,18500000
+28,2024-03-17,North America,#StPatricksDay,8900000
+29,2024-03-17,Europe,#StPatricksDay,4200000
+30,2024-04-08,North America,#SolarEclipse2024,15200000
+31,2024-04-08,Latin America,#EclipseSolar2024,2800000
+32,2024-04-09,Global,#SolarEclipse2024,8900000
+33,2024-04-10,Middle East,#Ramadan2024,8900000
+34,2024-04-15,Asia Pacific,#Ramadan2024,6200000
+35,2024-04-20,Global,#Ramadan2024,12500000
+36,2024-04-22,Global,#EarthDay2024,11200000
+37,2024-04-22,North America,#EarthDay2024,6800000
+38,2024-04-22,Europe,#EarthDay2024,5100000
+39,2024-04-23,Latin America,#DíaDeLaTierra,3200000
+40,2024-05-12,North America,#MothersDay,15800000
+41,2024-05-12,Latin America,#DíaDeLaMadre,8200000
+42,2024-05-13,Europe,#MothersDay,6500000
+43,2024-05-20,Europe,#Eurovision2024,28500000
+44,2024-05-21,Global,#Eurovision2024,22100000
+45,2024-05-25,Europe,#Eurovision2024,8900000
+46,2024-06-01,Global,#Pride2024,18500000
+47,2024-06-05,North America,#Pride2024,12200000
+48,2024-06-10,Europe,#Pride2024,9800000
+49,2024-06-14,Europe,#Euro2024,35000000
+50,2024-06-15,Latin America,#CopaAmerica2024,15200000
+51,2024-06-16,Global,#Euro2024,28900000
+52,2024-06-20,Latin America,#CopaAmerica2024,18500000
+53,2024-06-25,Europe,#Euro2024,42000000
+54,2024-06-30,Latin America,#CopaAmerica2024,22800000
+55,2024-07-04,North America,#IndependenceDay,18200000
+56,2024-07-14,Europe,#Euro2024,55000000
+57,2024-07-15,Global,#Euro2024,48500000
+58,2024-07-20,Global,#Paris2024,12500000
+59,2024-07-26,Global,#Paris2024,45000000
+60,2024-07-26,Europe,#Paris2024,28900000
+61,2024-07-27,Global,#Olympics2024,52000000
+62,2024-07-28,North America,#Olympics2024,22100000
+63,2024-07-29,Asia Pacific,#Olympics2024,18500000
+64,2024-08-02,Global,#Olympics2024,58000000
+65,2024-08-05,Europe,#Olympics2024,35200000
+66,2024-08-08,Latin America,#Olympics2024,15800000
+67,2024-08-11,Global,#Olympics2024,62000000
+68,2024-08-12,Global,#ClosingCeremony,45000000
+69,2024-08-28,Global,#Paralympics2024,15200000
+70,2024-09-01,Europe,#Paralympics2024,8900000
+71,2024-09-08,Global,#Paralympics2024,22100000
+72,2024-09-15,Latin America,#IndependenciaMX,8900000
+73,2024-10-07,Middle East,#October7,12500000
+74,2024-10-08,Europe,#October7,4200000
+75,2024-10-31,North America,#Halloween2024,25000000
+76,2024-10-31,Europe,#Halloween2024,12200000
+77,2024-10-31,Latin America,#Halloween2024,6800000
+78,2024-11-01,Global,#Halloween2024,28900000
+79,2024-11-05,North America,#Election2024,85000000
+80,2024-11-06,Global,#Election2024,62000000
+81,2024-11-06,Europe,#USElection2024,22100000
+82,2024-11-07,Latin America,#Election2024,15800000
+83,2024-11-28,North America,#Thanksgiving2024,18500000
+84,2024-11-29,Global,#BlackFriday2024,32000000
+85,2024-11-29,North America,#BlackFriday2024,28500000
+86,2024-11-29,Europe,#BlackFriday2024,15200000
+87,2024-11-30,Latin America,#BlackFriday2024,8900000
+88,2024-12-02,Global,#CyberMonday2024,22100000
+89,2024-12-24,Global,#ChristmasEve,35000000
+90,2024-12-24,North America,#ChristmasEve,18200000
+91,2024-12-24,Europe,#ChristmasEve,15800000
+92,2024-12-24,Latin America,#Nochebuena,12500000
+93,2024-12-25,Global,#Christmas2024,58000000
+94,2024-12-25,North America,#Christmas2024,25000000
+95,2024-12-25,Europe,#Christmas2024,22100000
+96,2024-12-25,Asia Pacific,#Christmas2024,8900000
+97,2024-12-31,Global,#NYE2024,75000000
+98,2024-12-31,North America,#NYE2024,32000000
+99,2024-12-31,Europe,#NYE2024,28500000
+100,2024-12-31,Asia Pacific,#NYE2024,22100000
+101,2024-01-26,Asia Pacific,#AustraliaDay,4200000
+102,2024-02-24,Europe,#UkraineWar,15800000
+103,2024-02-25,Global,#UkraineWar,22100000
+104,2024-03-01,North America,#UkraineWar,8900000
+105,2024-03-15,Global,#ClimateStrike,12500000
+106,2024-03-16,Europe,#ClimateStrike,8200000
+107,2024-04-18,Global,#AI2024,8900000
+108,2024-04-25,North America,#AI2024,6200000
+109,2024-05-30,Europe,#AI2024,4800000
+110,2024-06-05,Global,#WorldEnvironmentDay,9200000
+111,2024-09-21,Global,#ClimateStrike,8900000
+112,2024-10-10,Global,#MentalHealthDay,15200000
+113,2024-10-11,North America,#MentalHealthDay,6800000
+114,2024-10-23,Asia Pacific,#Diwali2024,18500000
+115,2024-10-24,Global,#Diwali2024,12200000
+116,2024-11-15,Global,#COP29,8900000
+117,2024-11-16,Europe,#COP29,5200000
+118,2024-01-15,Global,#TechTrends2024,4200000
+119,2024-04-01,Global,#AprilFools2024,8900000
+120,2024-04-02,North America,#AprilFools2024,5600000
+121,2024-07-13,Global,#TaylorSwift,15200000
+122,2024-08-15,North America,#TaylorSwift,12500000
+123,2024-09-28,Global,#TaylorSwift,18500000
+124,2024-06-30,Europe,#Wimbledon2024,12200000
+125,2024-07-14,Global,#Wimbledon2024,8900000
+126,2024-08-25,Global,#VMA2024,15800000
+127,2024-09-29,Europe,#Oktoberfest2024,4200000
+128,2024-11-20,Global,#TransRights,6800000
+129,2024-12-01,Global,#WorldAIDSDay,4200000
+130,2024-12-10,Global,#HumanRightsDay,5600000
+131,2024-03-31,Global,#TransVisibility,8200000
+132,2024-06-20,Global,#WorldRefugeeDay,4800000
+133,2024-07-18,Africa,#MandelaDay,3200000
+134,2024-05-25,Africa,#AfricaDay,4200000
+135,2024-08-19,Global,#WorldHumanitarianDay,6200000
+136,2024-09-10,Global,#WorldSuicidePreventionDay,8900000
+137,2024-11-25,Global,#16DaysOfActivism,5600000
+138,2024-02-04,Global,#WorldCancerDay,8200000
+139,2024-04-02,Global,#WorldAutismDay,4800000
+140,2024-05-17,Global,#IDAHOT2024,6200000
+141,2024-08-09,Global,#IndigenousPeoplesDay,3800000
+142,2024-10-16,Global,#WorldFoodDay,4200000
+143,2024-11-14,Global,#WorldDiabetesDay,5200000
+144,2024-09-27,Global,#WorldTourismDay,3200000
+145,2024-10-24,Global,#UNDay,2800000
+146,2024-12-03,Global,#DisabilityRights,3600000
+147,2024-08-12,Global,#YouthDay,4800000
+148,2024-12-08,Global,#ClimateAction,9200000
+149,2024-12-18,Global,#MigrantsDay,3800000
+150,2024-01-02,Global,#Resolutions2024,6200000
