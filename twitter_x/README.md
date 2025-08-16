@@ -16,7 +16,7 @@ El análisis se realiza en **Python** y los resultados se exportan para su visua
 
 ---
 
-## 📊 Visualización en Power BI
+## 📊 Visualización en MatPlotLib & Seaborn
 
 ### Volumen Total de Hashtags por Fecha
 

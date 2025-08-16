@@ -1,0 +1,146 @@
+id,fecha,region,evento,palabra_clave,interes
+1,2020-03-15,Estados Unidos,Inicio pandemia COVID-19,coronavirus,100
+2,2020-03-15,España,Inicio pandemia COVID-19,coronavirus,98
+3,2020-03-15,Italia,Inicio pandemia COVID-19,coronavirus,95
+4,2020-03-15,Francia,Inicio pandemia COVID-19,coronavirus,92
+5,2020-03-15,Reino Unido,Inicio pandemia COVID-19,coronavirus,89
+6,2020-03-20,Estados Unidos,Inicio pandemia COVID-19,mascarillas,85
+7,2020-03-20,España,Inicio pandemia COVID-19,mascarillas,88
+8,2020-03-20,Italia,Inicio pandemia COVID-19,mascarillas,90
+9,2020-03-25,Estados Unidos,Inicio pandemia COVID-19,trabajo desde casa,78
+10,2020-03-25,Alemania,Inicio pandemia COVID-19,trabajo desde casa,82
+11,2020-04-01,Estados Unidos,Inicio pandemia COVID-19,desinfectante,95
+12,2020-04-01,Brasil,Inicio pandemia COVID-19,desinfectante,87
+13,2020-04-05,Global,Inicio pandemia COVID-19,cuarentena,93
+14,2020-11-07,Estados Unidos,Elecciones presidenciales 2020,resultados elecciones,100
+15,2020-11-07,Canada,Elecciones presidenciales 2020,elecciones estados unidos,76
+16,2020-11-07,Reino Unido,Elecciones presidenciales 2020,biden trump,82
+17,2020-11-08,Estados Unidos,Elecciones presidenciales 2020,joe biden,95
+18,2020-11-08,Mexico,Elecciones presidenciales 2020,presidente estados unidos,68
+19,2021-01-06,Estados Unidos,Asalto al Capitolio,capitolio,100
+20,2021-01-06,Canada,Asalto al Capitolio,washington dc,72
+21,2021-01-06,Reino Unido,Asalto al Capitolio,trump capitolio,78
+22,2021-12-15,Estados Unidos,Llegada de Omicron,omicron,100
+23,2021-12-15,Reino Unido,Llegada de Omicron,variante omicron,94
+24,2021-12-15,Francia,Llegada de Omicron,omicron covid,87
+25,2021-12-20,Sudáfrica,Llegada de Omicron,omicron sudafrica,91
+26,2022-02-24,Ucrania,Invasión rusa a Ucrania,guerra ucrania,100
+27,2022-02-24,Polonia,Invasión rusa a Ucrania,guerra ucrania,98
+28,2022-02-24,Estados Unidos,Invasión rusa a Ucrania,rusia ucrania,89
+29,2022-02-24,Alemania,Invasión rusa a Ucrania,putin ukraine,85
+30,2022-02-25,Global,Invasión rusa a Ucrania,zelensky,95
+31,2022-02-26,Estados Unidos,Invasión rusa a Ucrania,swift rusia,78
+32,2022-02-27,Europa,Invasión rusa a Ucrania,refugiados ucrania,92
+33,2022-03-01,Estados Unidos,Invasión rusa a Ucrania,precio gasolina,87
+34,2022-03-05,Global,Invasión rusa a Ucrania,sanciones rusia,83
+35,2022-09-08,Reino Unido,Muerte de la Reina Isabel II,reina isabel,100
+36,2022-09-08,Canada,Muerte de la Reina Isabel II,queen elizabeth,95
+37,2022-09-08,Australia,Muerte de la Reina Isabel II,queen elizabeth death,92
+38,2022-09-08,Estados Unidos,Muerte de la Reina Isabel II,queen elizabeth died,88
+39,2022-11-08,Estados Unidos,Elecciones intermedias 2022,midterm elections,100
+40,2022-11-08,Estados Unidos,Elecciones intermedias 2022,resultados elecciones,85
+41,2022-11-20,Qatar,Mundial de Fútbol Qatar 2022,mundial qatar,100
+42,2022-11-20,Argentina,Mundial de Fútbol Qatar 2022,mundial 2022,98
+43,2022-11-20,Brasil,Mundial de Fútbol Qatar 2022,copa mundo,95
+44,2022-11-20,España,Mundial de Fútbol Qatar 2022,mundial futbol,92
+45,2022-11-20,Mexico,Mundial de Fútbol Qatar 2022,mundial qatar 2022,89
+46,2022-12-18,Argentina,Final Mundial Qatar,messi campeon,100
+47,2022-12-18,Argentina,Final Mundial Qatar,argentina campeon,98
+48,2022-12-18,Brasil,Final Mundial Qatar,messi mundial,87
+49,2022-12-18,España,Final Mundial Qatar,final mundial,85
+50,2023-02-06,Turquía,Terremoto en Turquía y Siria,terremoto turquia,100
+51,2023-02-06,Siria,Terremoto en Turquía y Siria,terremoto siria,98
+52,2023-02-06,Global,Terremoto en Turquía y Siria,earthquake turkey,89
+53,2023-02-07,Global,Terremoto en Turquía y Siria,ayuda humanitaria,76
+54,2023-03-15,Estados Unidos,Colapso Silicon Valley Bank,silicon valley bank,100
+55,2023-03-15,Estados Unidos,Colapso Silicon Valley Bank,crisis bancaria,87
+56,2023-03-15,Global,Colapso Silicon Valley Bank,svb bank,82
+57,2023-04-04,Estados Unidos,Procesamiento de Trump,trump acusado,100
+58,2023-04-04,Estados Unidos,Procesamiento de Trump,trump indictment,95
+59,2023-04-04,Global,Procesamiento de Trump,donald trump charges,78
+60,2023-05-06,Reino Unido,Coronación del Rey Carlos III,coronacion carlos,100
+61,2023-05-06,Canada,Coronación del Rey Carlos III,king charles coronation,92
+62,2023-05-06,Australia,Coronación del Rey Carlos III,charles coronation,88
+63,2023-06-18,Estados Unidos,Submarino Titanic desaparecido,submarino titanic,100
+64,2023-06-18,Canada,Submarino Titanic desaparecido,titan submarine,95
+65,2023-06-18,Reino Unido,Submarino Titanic desaparecido,missing submarine,87
+66,2023-06-22,Global,Submarino Titanic desaparecido,oceangate,92
+67,2023-06-24,Rusia,Motín de Wagner,wagner prigozhin,100
+68,2023-06-24,Ucrania,Motín de Wagner,wagner group,87
+69,2023-06-24,Estados Unidos,Motín de Wagner,russia wagner,76
+70,2023-10-07,Israel,Ataque de Hamas,hamas israel,100
+71,2023-10-07,Palestina,Ataque de Hamas,gaza attack,95
+72,2023-10-07,Estados Unidos,Ataque de Hamas,israel palestine,78
+73,2023-10-08,Global,Ataque de Hamas,iron dome,85
+74,2023-10-10,Global,Conflicto Israel-Gaza,gaza strip,92
+75,2023-11-30,Global,Lanzamiento ChatGPT turbo,chatgpt turbo,100
+76,2023-11-30,Estados Unidos,Lanzamiento ChatGPT turbo,openai gpt4,87
+77,2023-11-30,Global,Lanzamiento ChatGPT turbo,artificial intelligence,76
+78,2024-01-15,Estados Unidos,Primarias republicanas,iowa caucus,100
+79,2024-01-15,Estados Unidos,Primarias republicanas,republican primary,85
+80,2024-02-29,Global,Muerte de Navalny,navalny death,100
+81,2024-02-29,Rusia,Muerte de Navalny,alexei navalny,95
+82,2024-02-29,Estados Unidos,Muerte de Navalny,navalny russia,78
+83,2024-03-26,Estados Unidos,Colapso puente Baltimore,baltimore bridge,100
+84,2024-03-26,Estados Unidos,Colapso puente Baltimore,francis scott key bridge,92
+85,2024-05-20,Global,Muerte de Raisi,iran president,100
+86,2024-05-20,Iran,Muerte de Raisi,raisi helicopter,95
+87,2024-07-13,Estados Unidos,Atentado contra Trump,trump shooting,100
+88,2024-07-13,Estados Unidos,Atentado contra Trump,trump shot,98
+89,2024-07-13,Global,Atentado contra Trump,assassination attempt,87
+90,2024-07-21,Estados Unidos,Biden se retira,biden drops out,100
+91,2024-07-21,Estados Unidos,Biden se retira,kamala harris,95
+92,2024-07-21,Global,Biden se retira,biden withdrawal,82
+93,2024-08-05,Reino Unido,Disturbios en UK,uk riots,100
+94,2024-08-05,Reino Unido,Disturbios en UK,southport attack,92
+95,2024-08-05,Irlanda,Disturbios en UK,england riots,76
+96,2024-08-08,Global,Olimpiadas París 2024,olympics paris,100
+97,2024-08-08,Francia,Olimpiadas París 2024,jeux olympiques,98
+98,2024-08-08,Estados Unidos,Olimpiadas París 2024,paris olympics 2024,89
+99,2024-11-05,Estados Unidos,Elecciones presidenciales 2024,election results 2024,100
+100,2024-11-05,Estados Unidos,Elecciones presidenciales 2024,trump harris,95
+101,2024-11-06,Estados Unidos,Victoria de Trump,trump wins,100
+102,2024-11-06,Global,Victoria de Trump,trump victory,87
+103,2024-11-06,Mexico,Victoria de Trump,elecciones usa 2024,72
+104,2024-12-08,Siria,Caída de Assad,syria assad,100
+105,2024-12-08,Siria,Caída de Assad,damascus rebels,95
+106,2024-12-08,Global,Caída de Assad,syria news,82
+107,2025-01-01,Global,Año Nuevo 2025,new year 2025,100
+108,2025-01-01,Estados Unidos,Año Nuevo 2025,resolutions 2025,76
+109,2025-01-06,Estados Unidos,Aniversario 6 enero,january 6 anniversary,85
+110,2025-01-20,Estados Unidos,Inauguración Trump,trump inauguration,100
+111,2025-01-20,Estados Unidos,Inauguración Trump,inauguration day,92
+112,2025-01-20,Global,Inauguración Trump,trump sworn in,78
+113,2020-04-10,India,Inicio pandemia COVID-19,lockdown india,89
+114,2020-05-15,Brasil,Inicio pandemia COVID-19,bolsonaro covid,76
+115,2020-06-01,Estados Unidos,Protestas George Floyd,george floyd,100
+116,2020-06-01,Estados Unidos,Protestas George Floyd,black lives matter,95
+117,2020-06-05,Global,Protestas George Floyd,police brutality,82
+118,2020-08-11,Estados Unidos,Explosión Beirut,beirut explosion,100
+119,2020-08-11,Libano,Explosión Beirut,beirut blast,98
+120,2021-01-20,Estados Unidos,Inauguración Biden,biden inauguration,100
+121,2021-01-20,Global,Inauguración Biden,joe biden president,85
+122,2021-08-15,Afganistan,Caída de Kabul,afghanistan taliban,100
+123,2021-08-15,Estados Unidos,Caída de Kabul,kabul airport,92
+124,2021-08-15,Global,Caída de Kabul,afghanistan crisis,87
+125,2021-11-26,Global,Variante Omicron descubierta,omicron variant,100
+126,2021-11-26,Sudáfrica,Variante Omicron descubierta,new covid variant,94
+127,2022-04-14,Ucrania,Hundimiento Moskva,moskva ship,89
+128,2022-05-24,Estados Unidos,Tiroteo Uvalde,uvalde shooting,100
+129,2022-05-24,Estados Unidos,Tiroteo Uvalde,texas school shooting,95
+130,2022-07-08,Reino Unido,Renuncia Boris Johnson,boris johnson resigns,100
+131,2022-07-08,Reino Unido,Renuncia Boris Johnson,uk prime minister,87
+132,2022-10-27,Estados Unidos,Compra Twitter por Musk,elon musk twitter,100
+133,2022-10-27,Global,Compra Twitter por Musk,twitter buyout,89
+134,2022-12-02,China,Protestas COVID cero,china protests,100
+135,2022-12-02,China,Protestas COVID cero,covid zero policy,87
+136,2023-01-03,Estados Unidos,Caos en Cámara de Representantes,house speaker vote,100
+137,2023-01-03,Estados Unidos,Caos en Cámara de Representantes,kevin mccarthy,92
+138,2023-02-03,Estados Unidos,Globo espía chino,chinese spy balloon,100
+139,2023-02-03,Estados Unidos,Globo espía chino,balloon shot down,95
+140,2023-08-08,Estados Unidos,Incendios Maui,maui fires,100
+141,2023-08-08,Estados Unidos,Incendios Maui,hawaii wildfires,98
+142,2023-08-08,Estados Unidos,Incendios Maui,lahaina fire,92
+143,2024-02-16,Rusia,Muerte Navalny,navalny dead,100
+144,2024-03-22,Rusia,Atentado Moscú,moscow attack,100
+145,2024-03-22,Rusia,Atentado Moscú,crocus city hall,95
